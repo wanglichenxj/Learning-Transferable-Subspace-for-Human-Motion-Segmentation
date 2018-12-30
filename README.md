@@ -1,5 +1,5 @@
 # TSS Action Segmentation
-This repository contains code for our AAAI 18 paper: Learning Transferable Subspace for Human Motion Segmentation (TSS). TSS is a novel approach for human action segmentation in time space. It utilizes well labeled source video to improve the target video segmentation performance.
+This repository contains code for our AAAI 18 paper: [Learning Transferable Subspace for Human Motion Segmentation](https://github.com/wanglichenxj/TSS_Action_Segmentation/blob/master/Presentation/TSS_Action_Segmentation_AAAI19_Lichen.pdf) (TSS). TSS is a novel approach for human action segmentation in time space. It utilizes well labeled source video to improve the target video segmentation performance.
 
 ## Running the code
 The code is MATLAB code works in Ubuntu system. Windows system may need minor revision in the folder name. Direct diwnload the code and run TSS_main.m.
