@@ -31,14 +31,14 @@ This code is corresponding to our AAAI 2018 paper below:
 Another extension work with higher performance is accepted by TIP below:
 ```
 @ARTICLE{Seg_Lichen_TIP18, 
-author={Lichen Wang and Zhengming Ding and Yun Fu}, 
-journal={IEEE Transactions on Image Processing}, 
-title={Low-Rank Transfer Human Motion Segmentation}, 
-year={2019}, 
-volume={28}, 
-number={2}, 
-pages={1023-1034},
-doi={10.1109/TIP.2018.2870945},
+	author={Lichen Wang and Zhengming Ding and Yun Fu}, 
+	journal={IEEE Transactions on Image Processing}, 
+	title={Low-Rank Transfer Human Motion Segmentation}, 
+	year={2019}, 
+	volume={28}, 
+	number={2}, 
+	pages={1023-1034},
+	doi={10.1109/TIP.2018.2870945},
 }
 ```
 Please cite our paper if you like or use our work for your research, thank you very much!
